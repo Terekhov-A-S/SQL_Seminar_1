@@ -1,0 +1,1 @@
+SELECT product_name, manufacturer, product_count, price FROM test_schema.mobile_phones WHERE product_name REGEXP '[[8]]' = 1 || manufacturer REGEXP '[[8]]' = 1;
