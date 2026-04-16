@@ -78,4 +78,4 @@ WHERE product_name REGEXP '[[8]]' = 1 || manufacturer REGEXP '[[8]]' = 1;
 ```
 
 
-*Подготовил студент Geek Brains* [**`Терехов Александр`**]([https://gb.ru/users/1db43d0f-6c3d-46d1-bf5e-974b49af6f0d]), SQL_Seminar_1
+*Подготовил студент Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/1db43d0f-6c3d-46d1-bf5e-974b49af6f0d), SQL_Seminar_1
